@@ -1,0 +1,16 @@
+Package: StatComp20077
+Type: Package
+Title: Final assignment of 'Statistical Computing' course
+Version: 1.0
+Date: 2020-12-20
+Author: Peiran Liu
+Maintainer: Peiran Liu <lpr1423@mail.ustc.edu.cn>
+Description: Assignment,sort,adaptive estimate function,test the independence of two samples,test if two samples's density are same or not. 
+License: GPL (>= 2)
+Imports: Rcpp, microbenchmark, knitr, rmarkdown, ggplot2, MASS, RANN, Ball, boot, bootstrap, devtools, DAAG, energy, parallel
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/DerekLPR/StatComp20077
+BugReports: http://github.com/DerekLPR/StatComp20077/issues
